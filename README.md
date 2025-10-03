@@ -1,5 +1,5 @@
 # Olgatech
-<h1 align="center">⚖️✨ Hola, soy [Tu Nombre] ✨⚖️</h1>
+<h1 align="center">⚖️✨ Hola, soy Olga ✨⚖️</h1>
 
 ### 🌟 Sobre mí
 
