@@ -3,11 +3,12 @@
 
 ### 🌟 Sobre mí
 
-Soy **abogada** con gran pasión por la **tecnología** y una visión clara: ayudar a que las personas logren su independencia a través del conocimiento. Trabajo en una institución pública y al mismo tiempo construyo en el mundo Web3, fusionando el derecho, la innovación y la espiritualidad.
+Soy **abogada** con gran pasión por la **tecnología** y una visión clara: ayudar a que las personas logren su independencia a través del conocimiento. Trabajo en una institución pública y al mismo tiempo construyo en el mundo Web3, fusionando el derecho, la innovación y .
 
 - ⚖️ Abogada con enfoque en LegalTech  
 - 🌍 Embajadora de **Filecoin Orbit Program**  
-- 🇵🇪 Embajadora de **Stellar Perú**  
+- 🇵🇪 Embajadora de **Stellar Perú**
+- 🎤 **Speaker** en espacios de educación y Web3   
 - 🧘‍♀️ Creo en el empoderamiento desde adentro hacia afuera  
 - 📚 Traduzco artículos al español para ampliar el acceso al conocimiento  
 
@@ -24,16 +25,11 @@ Soy **abogada** con gran pasión por la **tecnología** y una visión clara: ayu
 
 
 
-### 📊 GitHub Stats
-
-![Tu GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
-
-
 ### 📫 ¿Conectamos?
 
-- 💌 [Tu correo o enlace de contacto]
-- 🐦 [Twitter / X](https://twitter.com/tu_usuario)
-- 🌐 [Tu sitio web personal o blog (opcional)]
+- 💌 ramosrosasolga@gmail.com
+- 🐦 https://x.com/0lga_tech
+- 🌐 https://www.linkedin.com/in/olgaramosrosas/
 
 
 > “Empoderar a una mujer es transformar el mundo desde su raíz.”  
